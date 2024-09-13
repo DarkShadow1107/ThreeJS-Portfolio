@@ -515,7 +515,7 @@ const projects: TProject[] = [
   {
     name: "Calculator",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "A caculator app made for WindowsOS in Visual Studio IDE in C#.",
     tags: [
       {
         name: "CSharp",
