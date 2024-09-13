@@ -463,7 +463,7 @@ const projects: TProject[] = [
   {
     name: "Clima Code",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "A svg that shows day moments in the winter and some animations like a plane flying in the sky.",
     tags: [
       {
         name: "SVG",
