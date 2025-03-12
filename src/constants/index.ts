@@ -353,7 +353,7 @@ const projects: TProject[] = [
   {
     name: "Canvas Orbital Trails 2.0",
     description:
-      ".",
+      "Web-based animation where it shows how the light is seen when multiple rotating colored trails are added; where the user can change how the trails works.",
     tags: [
       {
         name: "SketchJS",
@@ -375,7 +375,7 @@ const projects: TProject[] = [
   {
     name: "Canvas Orbital Trails",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web-based animation where is shows how multiple rotating colored trails are seen.",
     tags: [
       {
         name: "JavaScript",
@@ -529,7 +529,7 @@ const projects: TProject[] = [
   {
     name: "Scroll Driven Dock",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "A dock with Android-like icons, mimicking how the scroll works.",
     tags: [
       {
         name: "HTML",
@@ -551,7 +551,7 @@ const projects: TProject[] = [
   {
     name: "Scroll Driven Animations",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Scroll animation where the user can change the scrolling mode.",
     tags: [
       {
         name: "ScrollTimeLine API",
@@ -573,7 +573,7 @@ const projects: TProject[] = [
   {
     name: "Diorama",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "A 3D model of a diorama rendered in the browser using JavaScript.",
     tags: [
       {
         name: "ThreeJS",
@@ -599,7 +599,7 @@ const projects: TProject[] = [
   {
     name: "Filspresso",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Coffee marketplace that you can order different types of coffee capsules and espresso machines that works with those capsules.",
     tags: [
       {
         name: "HTML",
@@ -633,7 +633,7 @@ const projects: TProject[] = [
   {
     name: "Fire Shader",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "A 3D model of a fireplace rendered in the browser using JavaScript.",
     tags: [
       {
         name: "ThreeJS",
@@ -659,7 +659,7 @@ const projects: TProject[] = [
   {
     name: "Fluid Slider",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "A slider that changes color over scrolling.",
     tags: [
       {
         name: "SCSS",
@@ -689,7 +689,7 @@ const projects: TProject[] = [
   {
     name: "GitHub Clone",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "GitHub home page made in NextJS using TypeScript.",
     tags: [
       {
         name: "NextJS",
@@ -711,7 +711,7 @@ const projects: TProject[] = [
   {
     name: "GitHub Stats App",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "A web app made in NextJS that will make for you stats, like whats your most used programming languages.",
     tags: [
       {
         name: "NextJS",
@@ -737,7 +737,7 @@ const projects: TProject[] = [
   {
     name: "Gorillas Game",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "A web game inspired by Bowmasters game.",
     tags: [
       {
         name: "JavaScript",
@@ -759,7 +759,7 @@ const projects: TProject[] = [
   {
     name: "Hangman Game",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "The hangman designed using C and Raylib graphic library.",
     tags: [
       {
         name: "Raylib",
@@ -777,7 +777,7 @@ const projects: TProject[] = [
   {
     name: "Hard Boiled",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Egg shaped 3D objects made using ThreeJS.",
     tags: [
       {
         name: "ThreeJS",
@@ -799,7 +799,7 @@ const projects: TProject[] = [
   {
     name: "Hexanimation",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      ".",
     tags: [
       {
         name: "JavaScript",
@@ -821,7 +821,7 @@ const projects: TProject[] = [
   {
     name: "Home Theater",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      ".",
     tags: [
       {
         name: "CSS",
@@ -843,7 +843,7 @@ const projects: TProject[] = [
   {
     name: "Infinite Portals",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      ".",
     tags: [
       {
         name: "ThreeJS",
@@ -869,7 +869,7 @@ const projects: TProject[] = [
   {
     name: "Island Terrain Generator",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "A web app rendering 3D island terrain models based on user input in the browser.",
     tags: [
       {
         name: "ThreeJS",
@@ -891,7 +891,7 @@ const projects: TProject[] = [
   {
     name: "Lake Terrain Generator",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "A web app rendering 3D lake terrain models based on user input in the browser.",
     tags: [
       {
         name: "ThreeJS",
@@ -913,7 +913,7 @@ const projects: TProject[] = [
   {
     name: "Little Restaurant",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      ".",
     tags: [
       {
         name: "ThreeJS",
@@ -939,7 +939,7 @@ const projects: TProject[] = [
   {
     name: "Loading Animation",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      ".",
     tags: [
       {
         name: "JavaScript",
@@ -961,7 +961,7 @@ const projects: TProject[] = [
   {
     name: "Moss Animation",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      ".",
     tags: [
       {
         name: "JavaScript",
@@ -979,7 +979,7 @@ const projects: TProject[] = [
   {
     name: "Nixie Tube Clock",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      ".",
     tags: [
       {
         name: "CSS",
@@ -1001,7 +1001,7 @@ const projects: TProject[] = [
   {
     name: "Parametric Surface  ",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      ".",
     tags: [
       {
         name: "ThreeJS",
@@ -1027,7 +1027,7 @@ const projects: TProject[] = [
   {
     name: "Particle Life",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      ".",
     tags: [
       {
         name: "JavaScript",
@@ -1049,7 +1049,7 @@ const projects: TProject[] = [
   {
     name: "Physics GPU Render",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      ".",
     tags: [
       {
         name: "ThreeJS",
@@ -1071,7 +1071,7 @@ const projects: TProject[] = [
   {
     name: "Smooth Section Navigator",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      ".",
     tags: [
       {
         name: "React",
@@ -1097,7 +1097,7 @@ const projects: TProject[] = [
   {
     name: "Retrofuturist Point Base Game",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      ".",
     tags: [
       {
         name: "JavaScript",
@@ -1123,7 +1123,7 @@ const projects: TProject[] = [
   {
     name: "Solar System 3D",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      ".",
     tags: [
       {
         name: "CSS",
@@ -1161,7 +1161,7 @@ const projects: TProject[] = [
   {
     name: "Space Tourism",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      ".",
     tags: [
       {
         name: "HTML",
@@ -1183,7 +1183,7 @@ const projects: TProject[] = [
   {
     name: "Trektris",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      ".",
     tags: [
       {
         name: "JavaScript",
@@ -1205,7 +1205,7 @@ const projects: TProject[] = [
   {
     name: "Tower of Climbing Cubes",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      ".",
     tags: [
       {
         name: "CSS",
@@ -1227,7 +1227,7 @@ const projects: TProject[] = [
   {
     name: "Transdimensional Worm",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      ".",
     tags: [
       {
         name: "P5JS",
@@ -1249,7 +1249,7 @@ const projects: TProject[] = [
   {
     name: "Universe Encyclopedia",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      ".",
     tags: [
       {
         name: "HTML",
@@ -1291,7 +1291,7 @@ const projects: TProject[] = [
   {
     name: "Web IDE",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      ".",
     tags: [
       {
         name: "NextJS",
