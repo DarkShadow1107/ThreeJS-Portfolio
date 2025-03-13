@@ -283,7 +283,7 @@ const projects: TProject[] = [
   {
     name: "Bakery",
     description:
-      "A 3D model of a bakery rendered in the browser using JavaScript.",
+      "A 3D model of a bakery rendered in the browser.",
     tags: [
       {
         name: "ThreeJS",
@@ -309,7 +309,7 @@ const projects: TProject[] = [
   {
     name: "Blue Plasma",
     description:
-      "3D visual of geometrical waves with a portal above rendered in the browser using JavaScript.",
+      "3D visual of geometrical waves with a portal above rendered in the browser.",
     tags: [
       {
         name: "ThreeJS",
@@ -419,7 +419,7 @@ const projects: TProject[] = [
   {
     name: "Car at Night",
     description:
-      "3D car animation rendered in the browser using JavaScript.",
+      "3D car animation rendered in the browser.",
     tags: [
       {
         name: "ThreeJS",
@@ -573,7 +573,7 @@ const projects: TProject[] = [
   {
     name: "Diorama",
     description:
-      "A 3D model of a diorama rendered in the browser using JavaScript.",
+      "A 3D model of a diorama rendered in the browser.",
     tags: [
       {
         name: "ThreeJS",
@@ -633,7 +633,7 @@ const projects: TProject[] = [
   {
     name: "Fire Shader",
     description:
-      "A 3D model of a fireplace rendered in the browser using JavaScript.",
+      "A 3D model of a fireplace rendered in the browser.",
     tags: [
       {
         name: "ThreeJS",
@@ -777,7 +777,7 @@ const projects: TProject[] = [
   {
     name: "Hard Boiled",
     description:
-      "Egg shaped 3D objects made using ThreeJS.",
+      "Egg shaped 3D objects rendered in the browser.",
     tags: [
       {
         name: "ThreeJS",
@@ -799,7 +799,7 @@ const projects: TProject[] = [
   {
     name: "Hexanimation",
     description:
-      ".",
+      "Animation with random hex colored lines.",
     tags: [
       {
         name: "JavaScript",
@@ -821,7 +821,7 @@ const projects: TProject[] = [
   {
     name: "Home Theater",
     description:
-      ".",
+      "A 3D home theater rendered in the browser.",
     tags: [
       {
         name: "CSS",
@@ -843,7 +843,7 @@ const projects: TProject[] = [
   {
     name: "Infinite Portals",
     description:
-      ".",
+      "A 3D model of a forest and a portal to another world rendered.",
     tags: [
       {
         name: "ThreeJS",
@@ -913,7 +913,7 @@ const projects: TProject[] = [
   {
     name: "Little Restaurant",
     description:
-      ".",
+      "A 3D model of a little restaurant rendered in the browser.",
     tags: [
       {
         name: "ThreeJS",
@@ -939,7 +939,7 @@ const projects: TProject[] = [
   {
     name: "Loading Animation",
     description:
-      ".",
+      "A 2 lines loading animation.",
     tags: [
       {
         name: "JavaScript",
@@ -961,7 +961,7 @@ const projects: TProject[] = [
   {
     name: "Moss Animation",
     description:
-      ".",
+      "An animation of the moss growing.",
     tags: [
       {
         name: "JavaScript",
@@ -979,7 +979,7 @@ const projects: TProject[] = [
   {
     name: "Nixie Tube Clock",
     description:
-      ".",
+      "A 3D clock made using nixie tubes for displaying time.",
     tags: [
       {
         name: "CSS",
@@ -999,9 +999,9 @@ const projects: TProject[] = [
     sourceLiveDemoLink: "https://darkshadow1107.github.io/Nixie-Tube-Clock-CSS/",
   },
   {
-    name: "Parametric Surface  ",
+    name: "Parametric Surface",
     description:
-      ".",
+      "3D animation models of different objects rendered in the browser.",
     tags: [
       {
         name: "ThreeJS",
@@ -1027,7 +1027,7 @@ const projects: TProject[] = [
   {
     name: "Particle Life",
     description:
-      ".",
+      "A web game where particles hit each other and form a particle cluster.",
     tags: [
       {
         name: "JavaScript",
@@ -1049,7 +1049,7 @@ const projects: TProject[] = [
   {
     name: "Physics GPU Render",
     description:
-      ".",
+      "A 3D animation model with objects interacting with each other.",
     tags: [
       {
         name: "ThreeJS",
@@ -1071,7 +1071,7 @@ const projects: TProject[] = [
   {
     name: "Smooth Section Navigator",
     description:
-      ".",
+      "A smooth infinite scrolling animation.",
     tags: [
       {
         name: "React",
@@ -1097,7 +1097,7 @@ const projects: TProject[] = [
   {
     name: "Retrofuturist Point Base Game",
     description:
-      ".",
+      "A web point base game where the user can change its appearance.",
     tags: [
       {
         name: "JavaScript",
@@ -1123,7 +1123,7 @@ const projects: TProject[] = [
   {
     name: "Solar System 3D",
     description:
-      ".",
+      "A 3D model of the solar system rendered in the browser.",
     tags: [
       {
         name: "CSS",
@@ -1161,7 +1161,7 @@ const projects: TProject[] = [
   {
     name: "Space Tourism",
     description:
-      ".",
+      "An animated web page for space travel.",
     tags: [
       {
         name: "HTML",
@@ -1183,7 +1183,7 @@ const projects: TProject[] = [
   {
     name: "Trektris",
     description:
-      ".",
+      "A web interpretation of the Tetris game.",
     tags: [
       {
         name: "JavaScript",
@@ -1205,7 +1205,7 @@ const projects: TProject[] = [
   {
     name: "Tower of Climbing Cubes",
     description:
-      ".",
+      "A 3D animation where translucent cubes climbing each other.",
     tags: [
       {
         name: "CSS",
@@ -1227,7 +1227,7 @@ const projects: TProject[] = [
   {
     name: "Transdimensional Worm",
     description:
-      ".",
+      "A 3D animation of a translucent cubic worm.",
     tags: [
       {
         name: "P5JS",
@@ -1249,7 +1249,7 @@ const projects: TProject[] = [
   {
     name: "Universe Encyclopedia",
     description:
-      ".",
+      "An Universe's Wikipedia redesigned using animations and 3D models.",
     tags: [
       {
         name: "HTML",
@@ -1291,7 +1291,7 @@ const projects: TProject[] = [
   {
     name: "Web IDE",
     description:
-      ".",
+      "An IDE for web development in the browser.",
     tags: [
       {
         name: "NextJS",
